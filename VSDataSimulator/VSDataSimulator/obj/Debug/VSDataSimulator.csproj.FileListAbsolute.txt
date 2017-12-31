@@ -1,0 +1,10 @@
+D:\Workspaces\Stove\VSDataSimulator\VSDataSimulator\bin\Debug\VSDataSimulator.exe.config
+D:\Workspaces\Stove\VSDataSimulator\VSDataSimulator\bin\Debug\VSDataSimulator.exe
+D:\Workspaces\Stove\VSDataSimulator\VSDataSimulator\bin\Debug\VSDataSimulator.pdb
+D:\Workspaces\Stove\VSDataSimulator\VSDataSimulator\obj\Debug\VSDataSimulator.csprojResolveAssemblyReference.cache
+D:\Workspaces\Stove\VSDataSimulator\VSDataSimulator\obj\Debug\VSDataSimulator.MainFrm.resources
+D:\Workspaces\Stove\VSDataSimulator\VSDataSimulator\obj\Debug\VSDataSimulator.Properties.Resources.resources
+D:\Workspaces\Stove\VSDataSimulator\VSDataSimulator\obj\Debug\VSDataSimulator.csproj.GenerateResource.Cache
+D:\Workspaces\Stove\VSDataSimulator\VSDataSimulator\obj\Debug\VSDataSimulator.exe
+D:\Workspaces\Stove\VSDataSimulator\VSDataSimulator\obj\Debug\VSDataSimulator.pdb
+D:\Workspaces\Stove\VSDataSimulator\VSDataSimulator\obj\Debug\VSDataSimulator.TestFrm.resources
